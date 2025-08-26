@@ -21,4 +21,4 @@ It provides an easy way to manage medicines, sales, inventory, billing, and user
 ---
 
 👩‍💻 Developed by **Shivani Parmar**  
-🔗 [GitHub Profile](https://github.com/ShivaniParmar1)
+🔗 [GitHub Profile](https://github.com/ShivaniParmar1) 
