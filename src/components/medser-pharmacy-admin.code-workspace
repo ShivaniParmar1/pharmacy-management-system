@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../medser-backend/api"
+		},
+		{
+			"path": "../../../medser-backend/src"
+		}
+	],
+	"settings": {
+		"search-node-modules.path": "node_modules",
+		"markdown.extension.toc.updateOnSave": false
+	}
+}
